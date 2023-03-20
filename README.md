@@ -1,0 +1,1 @@
+# minicompilador_de_equacoes
